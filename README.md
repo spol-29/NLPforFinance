@@ -1,4 +1,4 @@
-# NLPforFinance
+# NLP for Finance
 Harnessing machine learning(NLP) in order to process financial data for sentiment analysis.
 
 This project uses natural language processing, more specifically sentiment analysis in order to determine the emotions that are displayed within financial data.
